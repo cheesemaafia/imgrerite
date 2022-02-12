@@ -35,21 +35,21 @@ py imagick.py
 ```
 From here on, the program will guide you
 
+## FAQs
 
-
-## But where does my resulting images get stored?
+### But where does my resulting images get stored?
 
 On your system, there would be a new folder/directory now, named ImagickCLI, all the images are saved there :)
 
-## And what are the limitations to this tool?
+### And what are the limitations to this tool?
 
 You can only enter texts for now and that too without a new line, I know it sucks!
 I'll improve this in future, so that a whole text file can be hidden inside an image rather than manually typing the text 
 
-## Okay, but why? WHY?
+### Okay, but why? WHY?
 
 I was bored 
 
-## Need help in installation?/Provide Feedback/Meh! Just wanna say 'Hi!'
+### Need help in installation?/Provide Feedback/Meh! Just wanna say 'Hi!'
 
-[Jigyasu](mailto:jigyasu@outlook.in?subject=[GitHub]%20Source%20Han%20Sans)
+Drop me a mail at: [Jigyasu](mailto:jigyasu@outlook.in?subject=[GitHub]%20ImagickCLI)
