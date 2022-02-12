@@ -35,6 +35,8 @@ py imagick.py
 ```
 From here on, the program will guide you
 
+
+
 ## But where does my resulting images get stored?
 
 On your system, there would be a new folder/directory now, named ImagickCLI, all the images are saved there :)
