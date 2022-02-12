@@ -52,4 +52,4 @@ I was bored.
 
 ### I need help in installation?/Provide Feedback/Meh! Just wanna say 'Hi!'
 
-Drop me a mail at: [Jigyasu](mailto:jigyasu@outlook.in?subject=[GitHub]%20ImagickCLI) or if you're a Discord person: [(ImagickCLI - Discord)](https://discord.gg/8YEJCWR3QU)
+Drop me a mail at: [jigyasu@outlook.in](mailto:jigyasu@outlook.in?subject=[GitHub]%20ImagickCLI) or if you're a Discord person: [(ImagickCLI - Discord)](https://discord.gg/8YEJCWR3QU)
