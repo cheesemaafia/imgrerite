@@ -17,7 +17,7 @@ Just make sure they are added to PATH
 
 In your preferred terminal (recommended to use Git Bash for Windows), run
 ```sh
-git clone https://github.com/cheesemaafia/ImagickCLI.git && cd ImagickCLI
+git clone https://github.com/cheesemaafia/ImagickCLI.git
 ```
 This will install ImagickCLI to your system
 
@@ -27,10 +27,12 @@ After installation, run
 
 - On Linux/MacOS
 ```sh
+cd ImagickCLI
 python3 imagick.py
 ```
 - On Windows
 ```sh
+cd ImagickCLI
 py imagick.py
 ```
 From here on, the program will guide you
