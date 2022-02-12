@@ -50,6 +50,6 @@ I'll improve this in future, so that a whole text file can be hidden inside an i
 
 I was bored 
 
-### Need help in installation?/Provide Feedback/Meh! Just wanna say 'Hi!'
+### I need help in installation?/Provide Feedback/Meh! Just wanna say 'Hi!'
 
 Drop me a mail at: [Jigyasu](mailto:jigyasu@outlook.in?subject=[GitHub]%20ImagickCLI)
