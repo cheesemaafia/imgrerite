@@ -29,7 +29,7 @@ After installation, run
 ```sh
 python3 imagick.py
 ```
--On Windows
+- On Windows
 ```sh
 py imagick.py
 ```
