@@ -39,7 +39,7 @@ From here on, the program will guide you
 
 ### But where does my resulting images get stored?
 
-On your system, there would be a new folder/directory now, named ImagickCLI, all the images are saved there :)
+On your system, there would be a new folder/directory now, named ImagickCLI, all the images are saved there. By reverse revealing those images, you'll see the text you hid :)
 
 ### And what are the limitations to this tool?
 
@@ -48,8 +48,8 @@ I'll improve this in future, so that a whole text file can be hidden inside an i
 
 ### Okay, but why? WHY?
 
-I was bored 
+I was bored. 
 
 ### I need help in installation?/Provide Feedback/Meh! Just wanna say 'Hi!'
 
-Drop me a mail at: [Jigyasu](mailto:jigyasu@outlook.in?subject=[GitHub]%20ImagickCLI) :D
+Drop me a mail at: [Jigyasu](mailto:jigyasu@outlook.in?subject=[GitHub]%20ImagickCLI) or if you're a Discord person: [(ImagickCLI - Discord)](https://discord.gg/8YEJCWR3QU)
