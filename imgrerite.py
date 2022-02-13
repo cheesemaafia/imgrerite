@@ -98,6 +98,3 @@ elif choice == 'R' or choice == 'r':
 
         except:
             print(f'{TRED}Please, enter the correct image path!{ENDC}')
-
-print(f'\n{TRED}Enter [C] to close the app: {ENDC}', end=' ')
-close = input()
