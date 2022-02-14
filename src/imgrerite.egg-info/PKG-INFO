@@ -1,3 +1,20 @@
+Metadata-Version: 2.1
+Name: imgrerite
+Version: 0.1.1
+Summary: A command-line tool to hide and reveal information inside images
+Home-page: https://github.com/cheesemaafia/imgrerite
+Author: Jigyasu
+Author-email: jigyasu@outlook.in
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/cheesemaafia/imgrerite/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # ImgReRite
 
 A command line tool to hide and reveal information inside images (works for both PNGs and JPGs)
@@ -42,3 +59,4 @@ I was bored
 ### I need help in installation? / Provide Feedback / Meh! Just wanna say 'Hi!'
 
 Drop me a mail at: [jigyasu@outlook.in](mailto:jigyasu@outlook.in?subject=[GitHub]%20Imgrerite) or if you're a Discord person: [(Imgrerite - Discord)](https://discord.gg/8YEJCWR3QU)
+

@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/imgrerite/__init__.py
+src/imgrerite/app.py
+src/imgrerite.egg-info/PKG-INFO
+src/imgrerite.egg-info/SOURCES.txt
+src/imgrerite.egg-info/dependency_links.txt
+src/imgrerite.egg-info/top_level.txt
