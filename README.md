@@ -18,7 +18,7 @@ Run ```pip install imgrerite``` in the terminal
 
 Use ```py -m imgrerite.app```
 
-- On Linux
+- On Linux/MacOS
 
 Use ```python3 -m imgrerite.app```
 ## FAQs
