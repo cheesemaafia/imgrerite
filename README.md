@@ -1,3 +1,4 @@
+[![Downloads](https://static.pepy.tech/personalized-badge/imgrerite?period=total&units=international_system&left_color=black&right_color=lightgrey&left_text=Downloads)](https://pepy.tech/project/imgrerite)
 # ImgReRite
 
 A command line tool to hide and reveal information inside images (works for both PNGs and JPGs)
